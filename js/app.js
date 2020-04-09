@@ -93,14 +93,12 @@ class Interfaz {
             const restante = document.querySelector('.restante');
             restante.classList.remove('alert-warning');
             restante.classList.add('alert-danger');
-            console.log('veintePorciento');
 
             /* Comprueba El 50% Del Gasto Total */
         } else if (presupuestoRestante <= cincuentaPorcentaje) {
             const restante = document.querySelector('.restante');
             restante.classList.remove('alert-success');
             restante.classList.add('alert-warning');
-            console.log('cincuentaPorciento');
         }
     }
 }
