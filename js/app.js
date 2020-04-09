@@ -113,6 +113,7 @@ function solicitarPresupuesto() {
         window.confirm('Presupuesto No Válido.');
 
     } else if (presupuestoUsuario === 0) {
+        window.location.reload();
         window.confirm('Presupuesto Nulo.');
 
     } else {
