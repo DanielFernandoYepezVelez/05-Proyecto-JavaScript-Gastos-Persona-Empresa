@@ -3,4 +3,4 @@ Este Proyecto Esta Construido Con Html5, Css3, Responsive Web Design, JavaScript
 De Una Persona, Empresa Despues De Ingresar Un Presupuesto Inicial. 
 
 ### Puedes Verlo Aquí: 
-https://danielfernandoyepezvelez.github.io/Proyecto-Gastos-Semanales/
+https://danielfernandoyepezvelez.github.io/05-Proyecto-JavaScript-Gastos-Persona-Empresa/index.html
